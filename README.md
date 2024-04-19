@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @regis063
 - 👀 I’m interested in Artificial inteligence
 - 🌱 I’m currently learning Html, Css, JavaScript, Python.
-- 💞️ I’m looking to collaborate on for wall
+- ✨ I’m looking to collaborate on for wall
 - 📫 How to reach me @regis_filho1 at the Instagram
 - ⚡ Fun fact: I think I'm beautiful
 
